@@ -27,8 +27,7 @@ Sourav.sutradhar@northsouth.edu
 
 
 Supervisor:
-DR. MOHAMMAD MONIRUJJAMAN KHAN 
-(Associate Professor)
-Department:
-Department of Electrical and Computer Engineering
+DR. MOHAMMAD MONIRUJJAMAN KHAN (monirujjaman.khan@northsouth.edu)
+(Associate Professor),
+Department of Electrical and Computer Engineering,
 North South University
