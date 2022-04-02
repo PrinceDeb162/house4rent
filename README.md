@@ -11,3 +11,24 @@ also register for the system, which will manually verify and authenticate the
 knowledge provided by the house owner can view a tenant’s information history
 whenever a tenant makes contact through text and supply house-related
 information accordingly.
+
+Group Members:
+DIPTA VOUMICK
+ID- 1632178042
+dipta.voumick@northsouth.edu
+
+PRINCE DEB
+ID- 1621232042
+Prince.deb@northsouth.edu
+
+SOURAV SUTRADHAR
+ID-1712126642
+Sourav.sutradhar@northsouth.edu
+
+
+Supervisor:
+DR. MOHAMMAD MONIRUJJAMAN KHAN
+Associate Professor
+Department:
+Department of Electrical and Computer Engineering
+North South University
